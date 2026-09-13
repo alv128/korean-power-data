@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Downloaded data is reproducible and may become large.
+kpx_output/
